@@ -14,7 +14,7 @@ import requests
 # =========================
 st.set_page_config(page_title="DR Classifier (0-4)", layout="centered")
 
-MODEL_URL = "https://github.com/rickyperdana22-cpu/MLDiabeticRetinopathy_RS/releases/download/V1/best_rs_rehearsal_head.pth"
+MODEL_URL = "https://github.com/rickyperdana22-cpu/MLDiabeticRetinopaty_RS/releases/download/V1/best_rs_rehearsal_head.pth"
 MODEL_PATH = "best_rs_rehearsal_head.pth"
 
 CLASS_NAMES = {
